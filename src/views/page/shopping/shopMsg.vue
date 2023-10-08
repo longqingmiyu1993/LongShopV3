@@ -1,7 +1,7 @@
 <template>
   <div>
     消息
-    <shopTarbar v-bind:active="2" /></shopTarbar>
+    <shopTarbar v-bind:active="2" ></shopTarbar>
   </div>
 </template>
 

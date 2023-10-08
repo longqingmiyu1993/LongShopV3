@@ -1,7 +1,7 @@
 <template>
   <div>
     购物车
-    <shopTarbar v-bind:active="3" /></shopTarbar>
+    <shopTarbar v-bind:active="3" ></shopTarbar>
   </div>
 </template>
 

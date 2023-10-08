@@ -1,7 +1,7 @@
 <template>
   <div>
     分类
-    <shopTarbar v-bind:active="1" /></shopTarbar>
+    <shopTarbar v-bind:active="1" ></shopTarbar>
   </div>
 </template>
 

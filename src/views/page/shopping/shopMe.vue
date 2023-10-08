@@ -1,7 +1,7 @@
 <template>
   <div>
     我的
-    <shopTarbar v-bind:active="4" /></shopTarbar>
+    <shopTarbar v-bind:active="4" ></shopTarbar>
   </div>
 </template>
 
